@@ -5,35 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>RentLedger Privacy Policy</title>
 
-<style>
-body{
-    font-family: Arial, sans-serif;
-    max-width:900px;
-    margin:auto;
-    padding:30px;
-    line-height:1.7;
-    color:#333;
-}
-h1{
-    color:#0F172A;
-    text-align:center;
-}
-h2{
-    color:#2563EB;
-    margin-top:30px;
-}
-.container{
-    background:#ffffff;
-    padding:30px;
-    border-radius:12px;
-    box-shadow:0 2px 10px rgba(0,0,0,0.08);
-}
-.footer{
-    margin-top:40px;
-    text-align:center;
-    color:#666;
-}
-</style>
+
 </head>
 
 <body>
